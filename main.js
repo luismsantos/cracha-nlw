@@ -3,7 +3,7 @@ const linksSocialMedia = {
   youtube: 'youtube',
   facebook: 'luismiguel.santossouza',
   instagram:'instagram',
-  twitter: 'luiwkk'
+  twitter: 'twitter'
 }
 
 function changeSocialMediaLinks() {
